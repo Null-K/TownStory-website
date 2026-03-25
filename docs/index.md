@@ -5,7 +5,7 @@ title: 首页
 hero:
   name: "城镇物语.中国"
   text: ""
-  tagline: “ 愿你锁热爱的依旧不减当年 ”
+  tagline: “ 愿你所热爱的依旧不减当年 ”
   # image:
   #   src: /images/logo.png
   #   alt: TownStory Logo

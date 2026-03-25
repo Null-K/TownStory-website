@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "TownStory",
-  description: "一个充满故事的 Minecraft 小镇服务器",
+  description: "日式城镇风格，社交 Minecraft 服务器",
   appearance: false,
   head: [['link', { rel: 'icon', href: '/images/icon.png' }]],
   themeConfig: {
