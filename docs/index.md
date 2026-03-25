@@ -146,12 +146,12 @@ features:
   <a href="#" target="_blank" class="team-member">
     <img src="https://mc-heads.net/avatar/IIFly_AwayII/120" alt="玩家头像" />
     <h3>小飞</h3>
-    <p>美术设计</p>
+    <p>美术援助</p>
   </a>
   <a href="#" target="_blank" class="team-member">
-    <img src="https://mc-heads.net/avatar/morkin/120" alt="玩家头像" />
+    <img src="https://mc-heads.net/avatar/None/120" alt="玩家头像" />
     <h3>绅陌颖</h3>
-    <p>美术设计</p>
+    <p>美术援助</p>
   </a>
   <!-- <a href="#" target="_blank" class="team-member">
     <img src="https://mc-heads.net/avatar/Rororeoreo/120" alt="玩家头像" />
