@@ -144,8 +144,8 @@ features:
     <p>负责人</p>
   </a>
   <a href="#" target="_blank" class="team-member">
-    <img src="https://minotar.net/helm/None/120.png" alt="玩家头像" />
-    <h3>Ase</h3>
+    <img src="https://cdn.builtbybit.com/avatars/l/251/251158.jpg" alt="玩家头像" />
+    <h3>AizenessTeam</h3>
     <p>建筑援助</p>
   </a>
   <a href="#" target="_blank" class="team-member">
