@@ -139,17 +139,17 @@ features:
     <p>主理人</p>
   </a> -->
   <a href="#" target="_blank" class="team-member">
-    <img src="https://mc-heads.net/avatar/Hakua_day/120" alt="玩家头像" />
+    <img src="https://minotar.net/helm/Hakua_day/120.png" alt="玩家头像" />
     <h3>卡娅</h3>
     <p>负责人</p>
   </a>
   <a href="#" target="_blank" class="team-member">
-    <img src="https://mc-heads.net/avatar/IIFly_AwayII/120" alt="玩家头像" />
+    <img src="https://minotar.net/helm/IIFly_AwayII/120.png" alt="玩家头像" />
     <h3>小飞</h3>
     <p>美术援助</p>
   </a>
   <a href="#" target="_blank" class="team-member">
-    <img src="https://mc-heads.net/avatar/None/120" alt="玩家头像" />
+    <img src="https://minotar.net/helm/None/120.png" alt="玩家头像" />
     <h3>绅陌颖</h3>
     <p>美术援助</p>
   </a>
