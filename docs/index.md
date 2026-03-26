@@ -144,11 +144,6 @@ features:
     <p>负责人</p>
   </a>
   <a href="#" target="_blank" class="team-member">
-    <img src="https://cdn.builtbybit.com/avatars/l/251/251158.jpg" alt="玩家头像" />
-    <h3>AizenessTeam</h3>
-    <p>建筑援助</p>
-  </a>
-  <a href="#" target="_blank" class="team-member">
     <img src="https://minotar.net/helm/IIFly_AwayII/120.png" alt="玩家头像" />
     <h3>小飞</h3>
     <p>美术援助</p>
@@ -158,11 +153,11 @@ features:
     <h3>绅陌颖</h3>
     <p>美术援助</p>
   </a>
-  <!-- <a href="#" target="_blank" class="team-member">
-    <img src="https://mc-heads.net/avatar/Rororeoreo/120" alt="玩家头像" />
-    <h3>落落</h3>
+  <a href="#" target="_blank" class="team-member">
+    <img src="https://minotar.net/helm/CCTV/120.png" alt="玩家头像" />
+    <h3>CCTV</h3>
     <p>社区管理</p>
-  </a> -->
+  </a>
 </div>
 
 <p class="team-thanks">感谢所有为服务器做出贡献的成员和团队</p>
