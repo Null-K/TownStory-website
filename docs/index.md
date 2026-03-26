@@ -107,9 +107,9 @@ features:
 
   <div class="testimonial-item">
     <div class="testimonial-header">
-      <img src="https://mc-heads.net/avatar/mianer_MN/64" alt="玩家头像" />
+      <img src="https://mc-heads.net/avatar/Pudding_Java/64" alt="玩家头像" />
       <div class="testimonial-info">
-        <div class="testimonial-name">mianer_MN</div>
+        <div class="testimonial-name">Pudding_Java</div>
         <div class="testimonial-date">18.9 小时</div>
       </div>
     </div>
