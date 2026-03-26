@@ -138,9 +138,9 @@ features:
     <h3>匿名</h3>
     <p>主理人</p>
   </a> -->
-  <a href="https://space.bilibili.com/105079849" target="_blank" class="team-member">
-    <img src="https://mc-heads.net/avatar/Pudding_Java/120" alt="玩家头像" />
-    <h3>PuddingKC</h3>
+  <a href="#" target="_blank" class="team-member">
+    <img src="https://mc-heads.net/avatar/Hakua_day/120" alt="玩家头像" />
+    <h3>卡娅</h3>
     <p>负责人</p>
   </a>
   <a href="#" target="_blank" class="team-member">
