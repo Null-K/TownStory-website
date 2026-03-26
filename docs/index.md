@@ -63,7 +63,7 @@ features:
 <div class="testimonials">
   <div class="testimonial-item">
     <div class="testimonial-header">
-      <img src="https://mc-heads.net/avatar/Da_Chester/64" alt="玩家头像" />
+      <img src="https://minotar.net/helm/Da_Chester/64.png" alt="玩家头像" />
       <div class="testimonial-info">
         <div class="testimonial-name">Da_Chester</div>
         <div class="testimonial-date">31.6 小时</div>
@@ -74,7 +74,7 @@ features:
 
   <div class="testimonial-item">
     <div class="testimonial-header">
-      <img src="https://mc-heads.net/avatar/ZhuMo2333/64" alt="玩家头像" />
+      <img src="https://minotar.net/helm/ZhuMo2333/64.png" alt="玩家头像" />
       <div class="testimonial-info">
         <div class="testimonial-name">ZhuMo2333</div>
         <div class="testimonial-date">7.5 小时</div>
@@ -85,7 +85,7 @@ features:
 
   <div class="testimonial-item">
     <div class="testimonial-header">
-      <img src="https://mc-heads.net/avatar/XxFairyBreadxX/64" alt="玩家头像" />
+      <img src="https://minotar.net/helm/XxFairyBreadxX/64.png" alt="玩家头像" />
       <div class="testimonial-info">
         <div class="testimonial-name">XxFairyBreadxX</div>
         <div class="testimonial-date">58.2 小时</div>
@@ -96,7 +96,7 @@ features:
 
   <div class="testimonial-item">
     <div class="testimonial-header">
-      <img src="https://mc-heads.net/avatar/sunsita/64" alt="玩家头像" />
+      <img src="https://minotar.net/helm/sunsita/64.png" alt="玩家头像" />
       <div class="testimonial-info">
         <div class="testimonial-name">sunsita</div>
         <div class="testimonial-date">103.1 小时</div>
@@ -107,7 +107,7 @@ features:
 
   <div class="testimonial-item">
     <div class="testimonial-header">
-      <img src="https://mc-heads.net/avatar/Pudding_Java/64" alt="玩家头像" />
+      <img src="https://minotar.net/helm/Pudding_Java/64.png" alt="玩家头像" />
       <div class="testimonial-info">
         <div class="testimonial-name">Pudding_Java</div>
         <div class="testimonial-date">18.9 小时</div>
@@ -118,7 +118,7 @@ features:
 
   <div class="testimonial-item">
     <div class="testimonial-header">
-      <img src="https://mc-heads.net/avatar/Reagan31/64" alt="玩家头像" />
+      <img src="https://minotar.net/helm/Reagan31/64.png" alt="玩家头像" />
       <div class="testimonial-info">
         <div class="testimonial-name">Reagan31</div>
         <div class="testimonial-date">73.1 小时</div>
@@ -142,6 +142,11 @@ features:
     <img src="https://minotar.net/helm/Hakua_day/120.png" alt="玩家头像" />
     <h3>卡娅</h3>
     <p>负责人</p>
+  </a>
+  <a href="#" target="_blank" class="team-member">
+    <img src="https://minotar.net/helm/None/120.png" alt="玩家头像" />
+    <h3>Ase</h3>
+    <p>建筑援助</p>
   </a>
   <a href="#" target="_blank" class="team-member">
     <img src="https://minotar.net/helm/IIFly_AwayII/120.png" alt="玩家头像" />
